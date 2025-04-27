@@ -8,7 +8,7 @@ Corporate Slogan: Shaping Tomorrow with Infinite Innovation
 Headquarters: Lagos, Nigeria
 Email: info@curloops.com
 Phone: +2348168766206
-Website: [www.curloops.com] (to be registered)
+Website: https://curloops.netlify.app (to be registered)
 
 
 Vision Statement: To become a global leader in developing innovative products and solutions that transform industries, enhance lives, and inspire future generations.
