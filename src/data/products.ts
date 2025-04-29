@@ -189,6 +189,26 @@ export const products: Product[] = [
     status: 'available'
   }
   ,
+  {
+    id: 'neurocare_transformer_bed',
+    name: 'NeuroCare Transformer Bed',
+    description: 'Next-generation hospital bed by NeuroCare Systems featuring motorized transformation, IoT health monitoring, integrated vitals sensing, and smart patient comfort solutions.',
+    image: '/automated hospital bed.jpeg',
+    features: [
+      'Motorized Bed-to-Chair Transformation',
+      'Built-in Blood Pressure and Temperature Sensors',
+      'IoT Health Monitoring and Mobile App Control',
+      'Foldable Reading Desk with USB Charging Ports',
+      'Mini Water Dispenser and Food Tray',
+      'Adjustable Safety Side Guards with Auto-Lock',
+      'Smart 360° Mobility Wheels with Remote Lock',
+      'Antibacterial Memory Foam Mattress',
+      'Emergency Mode with Instant Flattening',
+      'Voice Assistant Integration (Alexa, Google)'
+    ],
+    status: 'available'
+  },
+  
   
   {
     id: 'cokopress',
