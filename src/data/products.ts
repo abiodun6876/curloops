@@ -212,7 +212,7 @@ export const products: Product[] = [
     id: 'mediscan_x1',
     name: 'MediScan X1',
     description: 'Portable, AI-integrated mobile X-ray scanner that provides real-time imaging and AI-assisted diagnostics in a smartphone-sized device.',
-    image: '/mediscan_x1.jpeg',
+    image: '/mediscan.jpeg',
     features: [
       'Built-in X-ray Camera with Low Radiation',
       'AI-Powered Instant Diagnostics',
