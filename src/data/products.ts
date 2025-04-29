@@ -208,7 +208,25 @@ export const products: Product[] = [
     ],
     status: 'available'
   },
-  
+  {
+    id: 'mediscan_x1',
+    name: 'MediScan X1',
+    description: 'Portable, AI-integrated mobile X-ray scanner that provides real-time imaging and AI-assisted diagnostics in a smartphone-sized device.',
+    image: '/mediscan_x1.jpeg',
+    features: [
+      'Built-in X-ray Camera with Low Radiation',
+      'AI-Powered Instant Diagnostics',
+      'Touchscreen UI with Patient Record Access',
+      'Wi-Fi, 5G, and Bluetooth Connectivity',
+      'Battery Life up to 10 Hours',
+      'Cloud Integration with EHR Systems',
+      'HIPAA-Compliant Data Security',
+      'Lightweight Smartphone Form Factor',
+      'Pediatric Mode for Safe Use on Children',
+      'Subscription-Based AI Diagnostic Engine'
+    ],
+    status: 'available'
+  },
   
   {
     id: 'cokopress',
