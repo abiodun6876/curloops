@@ -104,6 +104,23 @@ export const products: Product[] = [
     status: 'available'
   },
   {
+    id: 'minfinity-tractor',
+    name: 'MCFUT-01 Mini Tractor',
+    description: 'Petrol-powered compact utility tractor with modular farm tools including cutter, trailer, tiller, and solar-roof. Built for small farms and rugged paths.',
+    image: '/mini-tractor.png',
+    features: [
+      'Petrol-powered 4-stroke engine',
+      'Rotary grass and weed cutter',
+      'Trailer towing capability',
+      'Add-ons: sprayer, seeder, plow, tiller',
+      'Protective canopy with solar option',
+      'Off-road puncture-proof tires',
+      'Rear-wheel drive with gear control',
+      'Compact and durable farm design'
+    ],
+    status: 'coming-soon'
+  },
+  {
     id: 'palmoil-mixer',
     name: 'PalmOil Mixer & Separator Machine',
     description: 'Mechanical palm oil mixing and separation machine powered by petrol or diesel engine with built-in fiber filtering system.',
@@ -137,6 +154,25 @@ export const products: Product[] = [
     ],
     status: 'available'
   },
+  {
+    id: 'aeon_v1_suv',
+    name: 'Project Aeon V1 – Futuristic Electric SUV',
+    description: 'A concept-level, AI-integrated electric SUV featuring flat-wing doors, maglev hover mode, and adaptive aerodynamics. Designed for high-performance and luxury in a future-forward form.',
+    image: '/aeon_v1_suv.jpeg', // You can replace with actual image path
+    features: [
+      'AI Co-Pilot with Adaptive Control',
+      'Maglev Hover Mode and Ground Drive',
+      'Flat-Wing Aerodynamic Doors',
+      'Electroluminescent Body Trim',
+      'Augmented Reality Cockpit with Voice+Eye Interface',
+      'Solid-State Battery Powertrain',
+      'Shape-Shifting Body Panels',
+      'Sustainable Nano-Coated Materials'
+    ],
+    status: 'coming-soon'
+  },
+
+  
   {
     id: 'solar-generator',
     name: 'Curloops Mobile Solar & Inverter Generator',
