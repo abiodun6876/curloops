@@ -158,7 +158,7 @@ export const products: Product[] = [
     id: 'aeon_v1_suv',
     name: 'Project Aeon V1 – Futuristic Electric SUV',
     description: 'A concept-level, AI-integrated electric SUV featuring flat-wing doors, maglev hover mode, and adaptive aerodynamics. Designed for high-performance and luxury in a future-forward form.',
-    image: '/aeon_v1_suv.jpeg', // You can replace with actual image path
+    image: '/automobile.jpeg', // You can replace with actual image path
     features: [
       'AI Co-Pilot with Adaptive Control',
       'Maglev Hover Mode and Ground Drive',
@@ -171,7 +171,24 @@ export const products: Product[] = [
     ],
     status: 'coming-soon'
   },
-
+  {
+    id: 'curloops_smart_trap',
+    name: 'Curloops Smart Trap – AI-Powered Mosquito Control',
+    description: 'A compact, eco-friendly mosquito trap that mimics human presence using CO₂, heat, and UV light. Designed for modern homes with smart detection and IoT integration.',
+    image: '/mini-tractor.jpeg', // Replace with the actual image path
+    features: [
+      'CO₂ and Heat Emission System',
+      'UV Light Attraction Ring',
+      'Silent Suction Fan Trap',
+      'Removable Waste Tray',
+      'Smart Sensors and Mosquito Counter',
+      'Solar and USB Rechargeable Power',
+      'Curloops IoT App Integration',
+      'Eco-Friendly and Safe for Indoor Use'
+    ],
+    status: 'coming-soon'
+  },
+  
   
   {
     id: 'solar-generator',
